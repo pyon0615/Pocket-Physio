@@ -1,11 +1,5 @@
 # Pocket-Physio
 
-[![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange?logo=tensorflow)](https://www.tensorflow.org/)  
-[![Built with Python](https://img.shields.io/badge/Built%20with-Python-blue?logo=python)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-
-> Machine learning approach to improving home-based physiotherapy for musculoskeletal disorders  
-
 ---
 
 ## 📖 Overview  
